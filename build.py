@@ -9,8 +9,8 @@ from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 AFF_ID = "154240979"
 UPDATED = "November 10, 2026"
 MONTH = "November 2026"
-SITE = "https://ussef-pro.github.io/gumroad-discount-codes/"
-REPO = "https://github.com/ussef-pro/gumroad-discount-codes"
+SITE = "https://josephwonder1-sudo.github.io/gumroad-discount-codes/"
+REPO = "https://github.com/josephwonder1-sudo/gumroad-discount-codes"
 CTA = "Claim Your Discount Offer"
 
 def aff(url):

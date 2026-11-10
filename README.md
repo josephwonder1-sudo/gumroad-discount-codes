@@ -126,7 +126,7 @@ Gumroad is free to join with no monthly fee. As of 2026 it takes about 10% + $0.
 
 ## 🎁 [Claim Your Discount Offer →](https://gumroad.com/discover?a=154240979)
 
-🌐 Web version: https://ussef-pro.github.io/gumroad-discount-codes/
+🌐 Web version: https://josephwonder1-sudo.github.io/gumroad-discount-codes/
 
 <sub>Affiliate disclosure: links on this page are Gumroad affiliate links. If you buy through them, I may earn a commission at no extra cost to you. This page is not affiliated with or endorsed by Gumroad, Inc.</sub>
 
