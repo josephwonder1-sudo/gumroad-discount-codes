@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ussef-pro.github.io/gumroad-discount-codes/sitemap.xml
